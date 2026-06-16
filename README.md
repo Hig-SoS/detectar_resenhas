@@ -38,7 +38,7 @@ A variável alvo foi definida conforme o objetivo do projeto (classificação ou
 - Pandas e NumPy
 - Matplotlib e Seaborn
 - Scikit-learn
-- Bibliotecas de modelos baseados em árvore, quando aplicável
+- Bibliotecas de modelos baseados em árvore
 
 ---
 
